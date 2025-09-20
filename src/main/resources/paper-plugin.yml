@@ -1,0 +1,12 @@
+name: CosmicTitles
+version: '0.1.0'
+main: net.sierr.cosmictitles.CosmicTitlesPlugin
+api-version: '1.21'
+authors: [ Starvern ]
+description: An advanced prefix & suffix system.
+dependencies:
+  server:
+    PlaceholderAPI:
+      load: BEFORE
+      required: false
+      join-classpath: true

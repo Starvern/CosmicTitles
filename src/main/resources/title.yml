@@ -1,0 +1,20 @@
+# All colors are configurable with Adventure MiniMessage.
+# https://docs.advntr.dev/minimessage/
+
+example_prefix:
+  type: "prefix"
+  display: "<green>[Prefix]"
+  rarity: "common"
+  permission: "titles.prefix.example"
+
+example_suffix:
+  type: "suffix"
+  display: "<red>[Suffix]"
+  rarity: "rare"
+  permission: "titles.suffix.example"
+
+example_any:
+  type: "any"
+  display: "<dark_purple>[Any]"
+  rarity: "epic"
+  permission: "titles.any.example"

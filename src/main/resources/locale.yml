@@ -1,0 +1,20 @@
+# All colors are configurable with Adventure MiniMessage.
+# https://docs.advntr.dev/minimessage/
+
+prefix:
+  enabled: true
+  value: "<aqua>CosmicTitles <dark_gray>→ <gray>"
+
+no_permission: "<red>No permission."
+plugin_reload: "<red>Reloaded plugin."
+no_arguments: "<red>Please specify arguments"
+
+command_usage: "/cosmictitles [set/unset] [prefix/suffix]  (title)"
+command_usage_console: "/cosmictitles [set/unset] [prefix/suffix] (title) <player_name>"
+
+player_specify: "<red>Please specify a player."
+type_specify: "<red>Please specify prefix or suffix."
+title_specify: "<red>Please specify <type>."
+
+title_unset: "Unset <type> successfully."
+title_set: "Set <type> to <title>."

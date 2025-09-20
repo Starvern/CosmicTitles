@@ -1,0 +1,17 @@
+# This file contains all rarities and their customization options.
+
+# All colors are configurable with Adventure MiniMessage.
+# https://docs.advntr.dev/minimessage/
+
+common:
+  display: "<gray>Common"
+  # This permission is checked in order to own / use any tags with this rarity, + any tag-specific permissions.
+  permission: "cosmictitles.common"
+
+rare:
+  display: "<blue>Rare"
+  permission: "cosmictitles.rare"
+
+epic:
+  display: "<dark_purple>Epic"
+  permission: "cosmictitles.epic"
